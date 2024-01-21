@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss","webpack://src/components/PeopleList.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CCDf,kBACE,gBAAiB,CACjB,eAAgB","file":"main.87f555ed.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n",".dropdown-content {\n  max-height: 400px;\n  overflow: scroll;\n}\n"]}
